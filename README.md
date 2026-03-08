@@ -1,3 +1,5 @@
+Author: Srinivas
+LinkedIn: https://www.linkedin.com/in/gudepu-srinivas-aa4914378
 This project is an end-to-end automation testing framework developed for an e-commerce web application using Java and Selenium.
 It is designed to demonstrate automation skills for a Java Selenium fresher.
 
