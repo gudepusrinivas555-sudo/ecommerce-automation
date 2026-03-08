@@ -24,13 +24,23 @@ Add Product to Cart
 Checkout Flow
 Logout
 ▶️ How to Run the Project
+
+
 Clone the repository
 Open project in Eclipse
 Update Maven dependencies
 Run testng.xml
 📊 Test Reports
 TestNG default reports generated after execution
-👨‍💻 Author
+👨‍💻 Author:gudepu srinivas
+## Project Structure
+![Structure](screenshots/project-structure.png)
+
+## Test Execution
+![Execution](screenshots/browser-test.png)
+
+## TestNG Report
+![Report](screenshots/testng-report.png)
 Name: Gudepu Srinivas
 Role: Java Automation Testing Fresher
 GitHub: https://Gudepusrinivas555-sudo
