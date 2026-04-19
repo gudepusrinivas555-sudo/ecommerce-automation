@@ -70,6 +70,22 @@ Role: Java Automation Testing Fresher
 GitHub: https://Gudepusrinivas555-sudo
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/8d3d897a-a2f1-49b9-b9df-0f7e95c7faf1" />
 
+Need Automation for your project?
+I provide:
+. Selenium
+. API testing
+. CI/CD integration
+. QA consulting
+
+Contact me on LinkedIn / Email
+
+
+
+
+
+
+
+
 
 
 
