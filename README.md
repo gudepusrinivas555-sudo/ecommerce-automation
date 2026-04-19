@@ -1,3 +1,27 @@
+Project Overview
+Automated end-to-end testing for an e-commerce web application
+
+Automated flows
+.User registration
+.Login/logout
+.Product search
+.Add to cart
+.Checkout
+.Order confirmation
+
+Tech Stack:
+-Java
+-Selenium
+-TestNG
+-Maven
+-Page Object Model (POM)
+-Extent Reports
+
+.Reduce manual regression testing by 80%
+.Tests run automatically in CI/CD pipeline
+.Detects critical checkout bugs early
+.Saves testing cost for startups
+
 Author: Srinivas
 LinkedIn: https://www.linkedin.com/in/gudepu-srinivas-aa4914378
 This project is an end-to-end automation testing framework developed for an e-commerce web application using Java and Selenium.
